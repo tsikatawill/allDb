@@ -5,42 +5,42 @@
       "name": "Jaden Chow",
       "position": "CEO, Imaginary Company",
       "quote": "I can do anything through Christ who strengthens me",
-      "img": "https://www.picsum.photos/800/500"
+      "img": "https://source.unsplash.com/user/c_v_r"
     },
     {
       "id": 2,
       "name": "Steve Anderson",
       "position": "UI/UX Designer, Imaginary Company",
       "quote": "Minimal",
-      "img": "https://www.picsum.photos/800/500"
+      "img": "https://source.unsplash.com/user/c_v_r"
     },
     {
       "id": 3,
       "name": "Janet Kudetor",
       "position": "Senior Developer, Imaginary Company",
       "quote": "Lorem is overated. Deal with it.",
-      "img": "https://www.picsum.photos/800/500"
+      "img": "https://source.unsplash.com/user/c_v_r"
     },
     {
       "id": 4,
       "name": "Ababio Gambare",
       "position": "Grahic Designer",
       "quote": "There is always light at the end of the tunnel",
-      "img": "https://www.picsum.photos/800/500"
+      "img": "https://source.unsplash.com/user/c_v_r"
     },
     {
       "id": 5,
       "name": "Abedru Portophy",
       "position": "PRO, Candy Cane Construcitons",
       "quote": "What goes around, comes around 💯",
-      "img": "https://www.picsum.photos/800/500"
+      "img": "https://source.unsplash.com/user/c_v_r"
     },
     {
       "id": 6,
       "name": "Godwin Issaka",
       "position": "PRO, Candy Cane Construcitons",
       "quote": "Heaven helps those who help themselves 🙌",
-      "img": "https://www.picsum.photos/800/500"
+      "img": "https://source.unsplash.com/user/c_v_r"
     }
   ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
