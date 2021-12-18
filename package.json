@@ -1,0 +1,23 @@
+{
+  "name": "alldb",
+  "version": "1.0.0",
+  "description": "An all in one API",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsikatawill/allDb.git"
+  },
+  "author": "William M. Tsikata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsikatawill/allDb/issues"
+  },
+  "homepage": "https://github.com/tsikatawill/allDb#readme"
+}
