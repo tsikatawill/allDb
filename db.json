@@ -1,4 +1,18 @@
 {
+  "contacts": [
+    {
+      "name": "John Doe",
+      "phone_number": "0550381060",
+      "image": "",
+      "id": "1641365092038"
+    },
+    {
+      "name": "William Tsikata",
+      "phone_number": "02122",
+      "image": "",
+      "id": "1641365360670"
+    }
+  ],
   "users": [
     {
       "id": 1,
