@@ -729,7 +729,7 @@
       "id": 3,
       "title": "Linear Clone",
       "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
-      "tags": ["React", "Clone"],
+      "tags": ["React"],
       "live": "https://linearr.netlify.app/",
       "github": "https://github.com/tsikatawill/linear-clone"
     },
