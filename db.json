@@ -759,7 +759,7 @@
       "title": "Feedback App",
       "description": "This app records user feedback and is part of a React course by Brad Traversy.",
       "tags": ["React"],
-      "live": "https://linearr.netlify.app/",
+      "live": "https://feedbackk-app.netlify.app/",
       "github": "https://github.com/tsikatawill/feedback-app",
       "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
     }
