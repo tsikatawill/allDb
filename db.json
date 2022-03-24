@@ -721,7 +721,7 @@
       "id": 2,
       "title": "DUDEY-AI",
       "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
-      "tags": ["React", "Collab"],
+      "tags": ["React"],
       "live": "https://dudey-ai.netlify.app/",
       "github": "https://github.com/tsikatawill/dudey-ai/tree/master"
     },
@@ -737,7 +737,7 @@
       "id": 4,
       "title": "WeBuild",
       "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
-      "tags": ["React", "Clone"],
+      "tags": ["React"],
       "live": "https://webuiild.netlify.app/",
       "github": "https://github.com/tsikatawill/weBuild"
     },
@@ -753,7 +753,7 @@
       "id": 6,
       "title": "Feedback App",
       "description": "This app records user feedback and is part of a React course by Brad Traversy.",
-      "tags": ["React", "Clone"],
+      "tags": ["React"],
       "live": "https://linearr.netlify.app/",
       "github": "https://github.com/tsikatawill/linear-clone"
     }
