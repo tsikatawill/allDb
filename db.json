@@ -707,5 +707,55 @@
       "condition": "new",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nesciunt."
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "W-Moviez",
+      "description": "This website was created around the TMDB API. It makes use of API calls to fetch popular movies, Sci-Fi, best R-Rated Movies and allows users to get details on their favourite movies using the search functionality.",
+      "tags": ["React", "TMBD API"],
+      "live": "https://w-moviez.netlify.app/about",
+      "github": "https://github.com/tsikatawill/w-moviez"
+    },
+    {
+      "id": 2,
+      "title": "DUDEY-AI",
+      "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
+      "tags": ["React", "Collab"],
+      "live": "https://dudey-ai.netlify.app/",
+      "github": "https://github.com/tsikatawill/dudey-ai/tree/master"
+    },
+    {
+      "id": 3,
+      "title": "Linear Clone",
+      "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
+      "tags": ["React", "Clone"],
+      "live": "https://linearr.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone"
+    },
+    {
+      "id": 4,
+      "title": "WeBuild",
+      "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
+      "tags": ["React", "Clone"],
+      "live": "https://webuiild.netlify.app/",
+      "github": "https://github.com/tsikatawill/weBuild"
+    },
+    {
+      "id": 5,
+      "title": "Cryptobase",
+      "description": "Fully responsive landing page clone of Coinbase cryptowallet.",
+      "tags": ["React", "Clone"],
+      "live": "https://cryptobaase.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone"
+    },
+    {
+      "id": 6,
+      "title": "Feedback App",
+      "description": "This app records user feedback and is part of a React course by Brad Traversy.",
+      "tags": ["React", "Clone"],
+      "live": "https://linearr.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone"
+    }
   ]
 }
