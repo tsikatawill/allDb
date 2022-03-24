@@ -714,7 +714,7 @@
       "title": "W-Moviez",
       "description": "This website was created around the TMDB API. It makes use of API calls to fetch popular movies, Sci-Fi, best R-Rated Movies and allows users to get details on their favourite movies using the search functionality.",
       "tags": ["React", "TMBD API"],
-      "live": "https://w-moviez.netlify.app/about",
+      "live": "https://w-moviez.netlify.app",
       "github": "https://github.com/tsikatawill/w-moviez",
       "image": "https://i.postimg.cc/JnWqq16K/w-moviez.png"
     },
@@ -762,6 +762,24 @@
       "live": "https://feedbackk-app.netlify.app/",
       "github": "https://github.com/tsikatawill/feedback-app",
       "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
+    },
+    {
+      "id": 7,
+      "title": "EZ Contacts",
+      "description": "A simple online contact manager. For the purpose of testing, any username and password will be accepted.",
+      "tags": ["React"],
+      "live": "http://ez-contacts.netlify.app/",
+      "github": "https://github.com/tsikatawill/feedback-app",
+      "image": "https://i.postimg.cc/4Nkk11J1/ez-contacts.png"
+    },
+    {
+      "id": 7,
+      "title": "Willman Todo",
+      "description": "Create and manage a simple todo list.",
+      "tags": ["Django"],
+      "live": "https://willman-todo.herokuapp.com/",
+      "github": "https://github.com/tsikatawill/willman_todo",
+      "image": "https://i.postimg.cc/MGXH28nw/willman-todo.png"
     }
   ]
 }
