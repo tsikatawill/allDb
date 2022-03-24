@@ -715,7 +715,8 @@
       "description": "This website was created around the TMDB API. It makes use of API calls to fetch popular movies, Sci-Fi, best R-Rated Movies and allows users to get details on their favourite movies using the search functionality.",
       "tags": ["React", "TMBD API"],
       "live": "https://w-moviez.netlify.app/about",
-      "github": "https://github.com/tsikatawill/w-moviez"
+      "github": "https://github.com/tsikatawill/w-moviez",
+      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
     },
     {
       "id": 2,
@@ -723,7 +724,8 @@
       "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
       "tags": ["React"],
       "live": "https://dudey-ai.netlify.app/",
-      "github": "https://github.com/tsikatawill/dudey-ai/tree/master"
+      "github": "https://github.com/tsikatawill/dudey-ai/tree/master",
+      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
     },
     {
       "id": 3,
@@ -731,7 +733,8 @@
       "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
       "tags": ["React"],
       "live": "https://linearr.netlify.app/",
-      "github": "https://github.com/tsikatawill/linear-clone"
+      "github": "https://github.com/tsikatawill/linear-clone",
+      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
     },
     {
       "id": 4,
@@ -739,7 +742,8 @@
       "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
       "tags": ["React"],
       "live": "https://webuiild.netlify.app/",
-      "github": "https://github.com/tsikatawill/weBuild"
+      "github": "https://github.com/tsikatawill/weBuild",
+      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
     },
     {
       "id": 5,
@@ -747,7 +751,8 @@
       "description": "Fully responsive landing page clone of Coinbase cryptowallet.",
       "tags": ["React", "Clone"],
       "live": "https://cryptobaase.netlify.app/",
-      "github": "https://github.com/tsikatawill/linear-clone"
+      "github": "https://github.com/tsikatawill/linear-clone",
+      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipM_3QRdcbo8jFHQ19aa9o1tj-66dpcAELAURuSl"
     },
     {
       "id": 6,
@@ -755,7 +760,8 @@
       "description": "This app records user feedback and is part of a React course by Brad Traversy.",
       "tags": ["React"],
       "live": "https://linearr.netlify.app/",
-      "github": "https://github.com/tsikatawill/linear-clone"
+      "github": "https://github.com/tsikatawill/feedback-app",
+      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipN2_6L7aimhQfgmDl9bRP_DNDkqTar71IGu5K_a"
     }
   ]
 }
