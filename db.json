@@ -716,7 +716,7 @@
       "tags": ["React", "TMBD API"],
       "live": "https://w-moviez.netlify.app/about",
       "github": "https://github.com/tsikatawill/w-moviez",
-      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
+      "image": "https://i.postimg.cc/JnWqq16K/w-moviez.png"
     },
     {
       "id": 2,
@@ -725,7 +725,7 @@
       "tags": ["React"],
       "live": "https://dudey-ai.netlify.app/",
       "github": "https://github.com/tsikatawill/dudey-ai/tree/master",
-      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
+      "image": "https://i.postimg.cc/ry4dT1pd/dudey-ai.png"
     },
     {
       "id": 3,
@@ -734,7 +734,7 @@
       "tags": ["React"],
       "live": "https://linearr.netlify.app/",
       "github": "https://github.com/tsikatawill/linear-clone",
-      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
+      "image": "https://i.postimg.cc/NMzRnBbW/linear.png"
     },
     {
       "id": 4,
@@ -743,7 +743,7 @@
       "tags": ["React"],
       "live": "https://webuiild.netlify.app/",
       "github": "https://github.com/tsikatawill/weBuild",
-      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipOpdqnFNNkArGZDMMNgV7UAUp2jtD3oCrI6Eq5Z"
+      "image": "https://i.postimg.cc/Z0kpTHGH/webuild.png"
     },
     {
       "id": 5,
@@ -752,7 +752,7 @@
       "tags": ["React", "Clone"],
       "live": "https://cryptobaase.netlify.app/",
       "github": "https://github.com/tsikatawill/linear-clone",
-      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipM_3QRdcbo8jFHQ19aa9o1tj-66dpcAELAURuSl"
+      "image": "https://i.postimg.cc/MT31fYsm/cryptobase.png"
     },
     {
       "id": 6,
@@ -761,7 +761,7 @@
       "tags": ["React"],
       "live": "https://linearr.netlify.app/",
       "github": "https://github.com/tsikatawill/feedback-app",
-      "image": "https://photos.google.com/album/AF1QipM-Hb1ZwbRKQJmNFm57lSasEl8mfq0E-nz3W1cx/photo/AF1QipN2_6L7aimhQfgmDl9bRP_DNDkqTar71IGu5K_a"
+      "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
     }
   ]
 }
