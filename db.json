@@ -57,609 +57,38 @@
       "img": "https://source.unsplash.com/user/c_v_r"
     }
   ],
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" },
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "todos": [
     {
-      "userId": 1,
-      "id": 1,
-      "title": "delectus aut autem",
-      "completed": false
+      "task_desc": "John",
+      "id": "519eec5d-3f70-45b0-b192-af815d97ebcd",
+      "isComplete": false
     },
     {
-      "userId": 1,
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": false
+      "task_desc": "Hoe",
+      "id": "34839b42-5de0-43c1-abe6-1ef2b6957d6c",
+      "isComplete": false
     },
     {
-      "userId": 1,
-      "id": 3,
-      "title": "fugiat veniam minus",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 4,
-      "title": "et porro tempora",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 5,
-      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 6,
-      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 7,
-      "title": "illo expedita consequatur quia in",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 8,
-      "title": "quo adipisci enim quam ut ab",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 9,
-      "title": "molestiae perspiciatis ipsa",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 10,
-      "title": "illo est ratione doloremque quia maiores aut",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 11,
-      "title": "vero rerum temporibus dolor",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 12,
-      "title": "ipsa repellendus fugit nisi",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 13,
-      "title": "et doloremque nulla",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 14,
-      "title": "repellendus sunt dolores architecto voluptatum",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 15,
-      "title": "ab voluptatum amet voluptas",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 16,
-      "title": "accusamus eos facilis sint et aut voluptatem",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 17,
-      "title": "quo laboriosam deleniti aut qui",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 18,
-      "title": "dolorum est consequatur ea mollitia in culpa",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 19,
-      "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 20,
-      "title": "ullam nobis libero sapiente ad optio sint",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 21,
-      "title": "suscipit repellat esse quibusdam voluptatem incidunt",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 22,
-      "title": "distinctio vitae autem nihil ut molestias quo",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 23,
-      "title": "et itaque necessitatibus maxime molestiae qui quas velit",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 24,
-      "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 25,
-      "title": "voluptas quo tenetur perspiciatis explicabo natus",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 26,
-      "title": "aliquam aut quasi",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 27,
-      "title": "veritatis pariatur delectus",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 28,
-      "title": "nesciunt totam sit blanditiis sit",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 29,
-      "title": "laborum aut in quam",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 30,
-      "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 31,
-      "title": "repudiandae totam in est sint facere fuga",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 32,
-      "title": "earum doloribus ea doloremque quis",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 33,
-      "title": "sint sit aut vero",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 34,
-      "title": "porro aut necessitatibus eaque distinctio",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 35,
-      "title": "repellendus veritatis molestias dicta incidunt",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 36,
-      "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
-      "completed": true
-    },
-    {
-      "userId": 2,
-      "id": 37,
-      "title": "sunt cum tempora",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 38,
-      "title": "totam quia non",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 39,
-      "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
-      "completed": false
-    },
-    {
-      "userId": 2,
-      "id": 40,
-      "title": "totam atque quo nesciunt",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 41,
-      "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 42,
-      "title": "rerum perferendis error quia ut eveniet",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 43,
-      "title": "tempore ut sint quis recusandae",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 44,
-      "title": "cum debitis quis accusamus doloremque ipsa natus sapiente omnis",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 45,
-      "title": "velit soluta adipisci molestias reiciendis harum",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 46,
-      "title": "vel voluptatem repellat nihil placeat corporis",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 47,
-      "title": "nam qui rerum fugiat accusamus",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 48,
-      "title": "sit reprehenderit omnis quia",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 49,
-      "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 50,
-      "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 51,
-      "title": "distinctio exercitationem ab doloribus",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 52,
-      "title": "nesciunt dolorum quis recusandae ad pariatur ratione",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 53,
-      "title": "qui labore est occaecati recusandae aliquid quam",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 54,
-      "title": "quis et est ut voluptate quam dolor",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 55,
-      "title": "voluptatum omnis minima qui occaecati provident nulla voluptatem ratione",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 56,
-      "title": "deleniti ea temporibus enim",
-      "completed": true
-    },
-    {
-      "userId": 3,
-      "id": 57,
-      "title": "pariatur et magnam ea doloribus similique voluptatem rerum quia",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 58,
-      "title": "est dicta totam qui explicabo doloribus qui dignissimos",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 59,
-      "title": "perspiciatis velit id laborum placeat iusto et aliquam odio",
-      "completed": false
-    },
-    {
-      "userId": 3,
-      "id": 60,
-      "title": "et sequi qui architecto ut adipisci",
-      "completed": true
-    },
-    {
-      "userId": 4,
-      "id": 61,
-      "title": "odit optio omnis qui sunt",
-      "completed": true
-    },
-    {
-      "userId": 4,
-      "id": 62,
-      "title": "et placeat et tempore aspernatur sint numquam",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 63,
-      "title": "doloremque aut dolores quidem fuga qui nulla",
-      "completed": true
-    },
-    {
-      "userId": 4,
-      "id": 64,
-      "title": "voluptas consequatur qui ut quia magnam nemo esse",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 65,
-      "title": "fugiat pariatur ratione ut asperiores necessitatibus magni",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 66,
-      "title": "rerum eum molestias autem voluptatum sit optio",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 67,
-      "title": "quia voluptatibus voluptatem quos similique maiores repellat",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 68,
-      "title": "aut id perspiciatis voluptatem iusto",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 69,
-      "title": "doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 70,
-      "title": "ut sequi accusantium et mollitia delectus sunt",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 71,
-      "title": "aut velit saepe ullam",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 72,
-      "title": "praesentium facilis facere quis harum voluptatibus voluptatem eum",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 73,
-      "title": "sint amet quia totam corporis qui exercitationem commodi",
-      "completed": true
-    },
-    {
-      "userId": 4,
-      "id": 74,
-      "title": "expedita tempore nobis eveniet laborum maiores",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 75,
-      "title": "occaecati adipisci est possimus totam",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 76,
-      "title": "sequi dolorem sed",
-      "completed": true
-    },
-    {
-      "userId": 4,
-      "id": 77,
-      "title": "maiores aut nesciunt delectus exercitationem vel assumenda eligendi at",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 78,
-      "title": "reiciendis est magnam amet nemo iste recusandae impedit quaerat",
-      "completed": false
-    },
-    {
-      "userId": 4,
-      "id": 79,
-      "title": "eum ipsa maxime ut",
-      "completed": true
-    },
-    {
-      "userId": 4,
-      "id": 80,
-      "title": "tempore molestias dolores rerum sequi voluptates ipsum consequatur",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 81,
-      "title": "suscipit qui totam",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 82,
-      "title": "voluptates eum voluptas et dicta",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 83,
-      "title": "quidem at rerum quis ex aut sit quam",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 84,
-      "title": "sunt veritatis ut voluptate",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 85,
-      "title": "et quia ad iste a",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 86,
-      "title": "incidunt ut saepe autem",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 87,
-      "title": "laudantium quae eligendi consequatur quia et vero autem",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 88,
-      "title": "vitae aut excepturi laboriosam sint aliquam et et accusantium",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 89,
-      "title": "sequi ut omnis et",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 90,
-      "title": "molestiae nisi accusantium tenetur dolorem et",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 91,
-      "title": "nulla quis consequatur saepe qui id expedita",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 92,
-      "title": "in omnis laboriosam",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 93,
-      "title": "odio iure consequatur molestiae quibusdam necessitatibus quia sint",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 94,
-      "title": "facilis modi saepe mollitia",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 95,
-      "title": "vel nihil et molestiae iusto assumenda nemo quo ut",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 96,
-      "title": "nobis suscipit ducimus enim asperiores voluptas",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 97,
-      "title": "dolorum laboriosam eos qui iure aliquam",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 98,
-      "title": "debitis accusantium ut quo facilis nihil quis sapiente necessitatibus",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 99,
-      "title": "neque voluptates ratione",
-      "completed": false
-    },
-    {
-      "userId": 5,
-      "id": 100,
-      "title": "excepturi a et neque qui expedita vel voluptate",
-      "completed": false
+      "task_desc": "Add todo",
+      "id": "963bc595-3ab4-4338-ad1d-56196a82e5ca",
+      "isComplete": false
     }
   ],
   "stores": [
@@ -685,6 +114,7 @@
   "products": [
     {
       "name": "Skate High Skateboard",
+      "productID": 1,
       "storeID": 2,
       "condition": "new",
       "price": 100,
@@ -693,6 +123,7 @@
     },
     {
       "name": "Skate High Skateboard V2",
+      "productID": 2,
       "storeID": 3,
       "price": 250,
       "rating": 4,
@@ -701,6 +132,7 @@
     },
     {
       "name": "Ultra Skate Skateboard",
+      "productID": 3,
       "storeID": 1,
       "price": 80,
       "rating": 5,
@@ -713,7 +145,10 @@
       "id": 1,
       "title": "W-Moviez",
       "description": "This website was created around the TMDB API. It makes use of API calls to fetch popular movies, Sci-Fi, best R-Rated Movies and allows users to get details on their favourite movies using the search functionality.",
-      "tags": ["React", "TMBD API"],
+      "tags": [
+        "React",
+        "TMBD API"
+      ],
       "live": "https://w-moviez.netlify.app",
       "github": "https://github.com/tsikatawill/w-moviez",
       "image": "https://i.postimg.cc/JnWqq16K/w-moviez.png"
@@ -722,7 +157,9 @@
       "id": 2,
       "title": "DUDEY-AI",
       "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
-      "tags": ["React"],
+      "tags": [
+        "React"
+      ],
       "live": "https://dudey-ai.netlify.app/",
       "github": "https://github.com/tsikatawill/dudey-ai/tree/master",
       "image": "https://i.postimg.cc/ry4dT1pd/dudey-ai.png"
@@ -731,7 +168,9 @@
       "id": 3,
       "title": "Linear Clone",
       "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
-      "tags": ["React"],
+      "tags": [
+        "React"
+      ],
       "live": "https://linearr.netlify.app/",
       "github": "https://github.com/tsikatawill/linear-clone",
       "image": "https://i.postimg.cc/NMzRnBbW/linear.png"
@@ -740,7 +179,9 @@
       "id": 4,
       "title": "WeBuild",
       "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
-      "tags": ["React"],
+      "tags": [
+        "React"
+      ],
       "live": "https://webuiild.netlify.app/",
       "github": "https://github.com/tsikatawill/weBuild",
       "image": "https://i.postimg.cc/Z0kpTHGH/webuild.png"
@@ -749,7 +190,10 @@
       "id": 5,
       "title": "Cryptobase",
       "description": "Fully responsive landing page clone of Coinbase cryptowallet.",
-      "tags": ["React", "Clone"],
+      "tags": [
+        "React",
+        "Clone"
+      ],
       "live": "https://cryptobaase.netlify.app/",
       "github": "https://github.com/tsikatawill/linear-clone",
       "image": "https://i.postimg.cc/MT31fYsm/cryptobase.png"
@@ -758,7 +202,9 @@
       "id": 6,
       "title": "Feedback App",
       "description": "This app records user feedback and is part of a React course by Brad Traversy.",
-      "tags": ["React"],
+      "tags": [
+        "React"
+      ],
       "live": "https://feedbackk-app.netlify.app/",
       "github": "https://github.com/tsikatawill/feedback-app",
       "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
@@ -767,7 +213,9 @@
       "id": 7,
       "title": "EZ Contacts",
       "description": "A simple online contact manager. For the purpose of testing, any username and password will be accepted.",
-      "tags": ["React"],
+      "tags": [
+        "React"
+      ],
       "live": "http://ez-contacts.netlify.app/",
       "github": "https://github.com/tsikatawill/feedback-app",
       "image": "https://i.postimg.cc/4Nkk11J1/ez-contacts.png"
@@ -776,7 +224,9 @@
       "id": 8,
       "title": "Willman Todo",
       "description": "Create and manage a simple todo list.",
-      "tags": ["Django"],
+      "tags": [
+        "Django"
+      ],
       "live": "https://willman-todo.herokuapp.com/",
       "github": "https://github.com/tsikatawill/willman_todo",
       "image": "https://i.postimg.cc/MGXH28nw/willman-todo.png"
@@ -800,6 +250,56 @@
       "name": "John Doe",
       "position": "CEO, Gye Nyame Provisions",
       "review": "Willman Todo helps me keep tabs on my todo list for the day. Great work"
+    }
+  ],
+  "martaround_orders": [
+    {
+      "id": 1,
+      "orderID": "INC201512",
+      "customer": "John Alex",
+      "order_type": "incoming",
+      "order": "Macbook Pro",
+      "delivery_status": "pending"
+    },
+    {
+      "id": 2,
+      "orderID": "INC214512",
+      "customer": "Jane Duck",
+      "order_type": "incoming",
+      "order": "HP Envy",
+      "delivery_status": "canceled"
+    },
+    {
+      "id": 3,
+      "orderID": "OUT101522",
+      "customer": "Gifty Addo",
+      "order_type": "outgoing",
+      "order": "Apple Watch",
+      "delivery_status": "canceled"
+    },
+    {
+      "id": 4,
+      "orderID": "OUT201512",
+      "customer": "Jennifer Adi",
+      "order_type": "outgoing",
+      "order": "Macbook Pro",
+      "delivery_status": "pending"
+    },
+    {
+      "id": 5,
+      "orderID": "INC201512",
+      "customer": "Fiifi Opuni",
+      "order_type": "incoming",
+      "order": "Wirless Mouse",
+      "delivery_status": "completed"
+    },
+    {
+      "id": 6,
+      "orderID": "OUT234512",
+      "customer": "Johnny Doe",
+      "order_type": "outgoing",
+      "order": "MTN MiFi",
+      "delivery_status": "completed"
     }
   ]
 }
