@@ -1,0 +1,287 @@
+{
+  "contacts": [
+    {
+      "name": "John Doe",
+      "phone_number": "0550381060",
+      "image": "",
+      "id": "1641365092038"
+    },
+    {
+      "name": "William Tsikata",
+      "phone_number": "02122",
+      "image": "",
+      "id": "1641365360670"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jaden Chow",
+      "position": "CEO, Imaginary Company",
+      "quote": "I can do anything through Christ who strengthens me",
+      "img": "https://source.unsplash.com/user/c_v_r"
+    },
+    {
+      "id": 2,
+      "name": "Steve Anderson",
+      "position": "UI/UX Designer, Imaginary Company",
+      "quote": "Minimal",
+      "img": "https://source.unsplash.com/user/c_v_r"
+    },
+    {
+      "id": 3,
+      "name": "Janet Kudetor",
+      "position": "Senior Developer, Imaginary Company",
+      "quote": "Lorem is overated. Deal with it.",
+      "img": "https://source.unsplash.com/user/c_v_r"
+    },
+    {
+      "id": 4,
+      "name": "Ababio Gambare",
+      "position": "Grahic Designer",
+      "quote": "There is always light at the end of the tunnel",
+      "img": "https://source.unsplash.com/user/c_v_r"
+    },
+    {
+      "id": 5,
+      "name": "Abedru Portophy",
+      "position": "PRO, Candy Cane Construcitons",
+      "quote": "What goes around, comes around 💯",
+      "img": "https://source.unsplash.com/user/c_v_r"
+    },
+    {
+      "id": 6,
+      "name": "Godwin Issaka",
+      "position": "PRO, Candy Cane Construcitons",
+      "quote": "Heaven helps those who help themselves 🙌",
+      "img": "https://source.unsplash.com/user/c_v_r"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "task_desc": "John",
+      "id": "519eec5d-3f70-45b0-b192-af815d97ebcd",
+      "isComplete": false
+    },
+    {
+      "task_desc": "Hoe",
+      "id": "34839b42-5de0-43c1-abe6-1ef2b6957d6c",
+      "isComplete": false
+    },
+    {
+      "task_desc": "Add todo",
+      "id": "963bc595-3ab4-4338-ad1d-56196a82e5ca",
+      "isComplete": false
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "name": "Gye Nyame Provisions",
+      "location": "UCC, Cape Coast",
+      "description": "We are a trustworthy and passionate group looking to sell our merchandise anywhere in world. Friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian."
+    },
+    {
+      "id": 2,
+      "name": "John Doe Artillery",
+      "location": "Abura, Cape Coast",
+      "description": "Grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath."
+    },
+    {
+      "id": 3,
+      "name": "Banda Electricals",
+      "location": "Kwaprow, Cape Coast",
+      "description": "The bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream; and, as I lie close to the earth, a thousand unknown plants."
+    }
+  ],
+  "products": [
+    {
+      "name": "Skate High Skateboard",
+      "productID": 1,
+      "storeID": 2,
+      "condition": "new",
+      "price": 100,
+      "rating": 4.5,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nesciunt."
+    },
+    {
+      "name": "Skate High Skateboard V2",
+      "productID": 2,
+      "storeID": 3,
+      "price": 250,
+      "rating": 4,
+      "condition": "used",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nesciunt."
+    },
+    {
+      "name": "Ultra Skate Skateboard",
+      "productID": 3,
+      "storeID": 1,
+      "price": 80,
+      "rating": 5,
+      "condition": "new",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nesciunt."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "W-Moviez",
+      "description": "This website was created around the TMDB API. It makes use of API calls to fetch popular movies, Sci-Fi, best R-Rated Movies and allows users to get details on their favourite movies using the search functionality.",
+      "tags": ["React", "TMBD API"],
+      "live": "https://w-moviez.netlify.app",
+      "github": "https://github.com/tsikatawill/w-moviez",
+      "image": "https://i.postimg.cc/JnWqq16K/w-moviez.png"
+    },
+    {
+      "id": 2,
+      "title": "DUDEY-AI",
+      "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
+      "tags": ["React"],
+      "live": "https://dudey-ai.netlify.app/",
+      "github": "https://github.com/tsikatawill/dudey-ai/tree/master",
+      "image": "https://i.postimg.cc/WpMkg4fg/dudey-ai.png"
+    },
+    {
+      "id": 3,
+      "title": "Linear Clone",
+      "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
+      "tags": ["React"],
+      "live": "https://linearr.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone",
+      "image": "https://i.postimg.cc/NMzRnBbW/linear.png"
+    },
+    {
+      "id": 4,
+      "title": "WeBuild",
+      "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
+      "tags": ["React"],
+      "live": "https://webuiild.netlify.app/",
+      "github": "https://github.com/tsikatawill/weBuild",
+      "image": "https://i.postimg.cc/FHKdMVFV/webuild.png"
+    },
+    {
+      "id": 5,
+      "title": "Cryptobase",
+      "description": "Fully responsive landing page clone of Coinbase cryptowallet.",
+      "tags": ["React", "Clone"],
+      "live": "https://cryptobaase.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone",
+      "image": "https://i.postimg.cc/QxhWbrRP/cryptobase.png"
+    },
+    {
+      "id": 6,
+      "title": "Feedback App",
+      "description": "This app records user feedback and is part of a React course by Brad Traversy.",
+      "tags": ["React"],
+      "live": "https://feedbackk-app.netlify.app/",
+      "github": "https://github.com/tsikatawill/feedback-app",
+      "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
+    },
+    {
+      "id": 7,
+      "title": "EZ Contacts",
+      "description": "A simple online contact manager. For the purpose of testing, any username and password will be accepted.",
+      "tags": ["React"],
+      "live": "http://ez-contacts.netlify.app/",
+      "github": "https://github.com/tsikatawill/feedback-app",
+      "image": "https://i.postimg.cc/13YnsVfh/ez-contacts.png"
+    },
+    {
+      "id": 8,
+      "title": "Willman Todo",
+      "description": "Create and manage a simple todo list.",
+      "tags": ["Django"],
+      "live": "https://willman-todo.herokuapp.com/",
+      "github": "https://github.com/tsikatawill/willman_todo",
+      "image": "https://i.postimg.cc/MGXH28nw/willman-todo.png"
+    }
+  ],
+  "willfolioReviews": [
+    {
+      "id": 1,
+      "name": "Jaden Chow",
+      "position": "Frontend engineer",
+      "review": "Willman writes very clean code"
+    },
+    {
+      "id": 2,
+      "name": "Ababio Gambare",
+      "position": "Movie enthusiast",
+      "review": "I use W-Moviez everyday to check on upcoming movies and popular movies."
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "position": "CEO, Gye Nyame Provisions",
+      "review": "Willman Todo helps me keep tabs on my todo list for the day. Great work"
+    }
+  ],
+  "martaround_orders": [
+    {
+      "id": 1,
+      "orderID": "INC201512",
+      "customer": "John Alex",
+      "order_type": "incoming",
+      "order": "Macbook Pro",
+      "delivery_status": "pending"
+    },
+    {
+      "id": 2,
+      "orderID": "INC214512",
+      "customer": "Jane Duck",
+      "order_type": "incoming",
+      "order": "HP Envy",
+      "delivery_status": "canceled"
+    },
+    {
+      "id": 3,
+      "orderID": "OUT101522",
+      "customer": "Gifty Addo",
+      "order_type": "outgoing",
+      "order": "Apple Watch",
+      "delivery_status": "canceled"
+    },
+    {
+      "id": 4,
+      "orderID": "OUT201512",
+      "customer": "Jennifer Adi",
+      "order_type": "outgoing",
+      "order": "Macbook Pro",
+      "delivery_status": "pending"
+    },
+    {
+      "id": 5,
+      "orderID": "INC201512",
+      "customer": "Fiifi Opuni",
+      "order_type": "incoming",
+      "order": "Wirless Mouse",
+      "delivery_status": "completed"
+    },
+    {
+      "id": 6,
+      "orderID": "OUT234512",
+      "customer": "Johnny Doe",
+      "order_type": "outgoing",
+      "order": "MTN MiFi",
+      "delivery_status": "completed"
+    }
+  ]
+}
