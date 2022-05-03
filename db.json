@@ -217,21 +217,10 @@
   "willfolioReviews": [
     {
       "id": 1,
-      "name": "Jaden Chow",
-      "position": "Frontend engineer",
-      "review": "Willman writes very clean code"
-    },
-    {
-      "id": 2,
-      "name": "Ababio Gambare",
-      "position": "Movie enthusiast",
-      "review": "I use W-Moviez everyday to check on upcoming movies and popular movies."
-    },
-    {
-      "id": 3,
-      "name": "John Doe",
-      "position": "CEO, Gye Nyame Provisions",
-      "review": "Willman Todo helps me keep tabs on my todo list for the day. Great work"
+      "name": "Janet Tsikata",
+      "position": "Psychiatric nurse",
+      "review": "Willman writes very clean code",
+      "image": "https://i.postimg.cc/zBNrdT1C/Whats-App-Image-2022-05-03-at-4-51-18-PM.jpg"
     }
   ],
   "martaround_orders": [
