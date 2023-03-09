@@ -143,6 +143,15 @@
   "projects": [
     {
       "id": 1,
+      "title": "Groupify",
+      "description": "Easily group teams with different upload options from manual to generated entry, to excel file upload. Print your group member list to an Excel file and download straight to your device.",
+      "tags": ["Next JS", "TailwindCSS"],
+      "live": "https://groupify-kappa.vercel.app",
+      "github": "https://github.com/tsikatawill/groupufy",
+      "image": "https://i.postimg.cc/cC7VCSh8/groupify.png"
+    },
+    {
+      "id": 2,
       "title": "W-Moviez",
       "description": "This website was created around the TMDB API. It makes use of API calls to fetch popular movies, Sci-Fi, best R-Rated Movies and allows users to get details on their favourite movies using the search functionality.",
       "tags": ["React", "TMBD API"],
@@ -151,52 +160,7 @@
       "image": "https://i.postimg.cc/JnWqq16K/w-moviez.png"
     },
     {
-      "id": 2,
-      "title": "DUDEY-AI",
-      "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
-      "tags": ["React"],
-      "live": "https://dudey-ai.netlify.app/",
-      "github": "https://github.com/tsikatawill/dudey-ai/tree/master",
-      "image": "https://i.postimg.cc/WpMkg4fg/dudey-ai.png"
-    },
-    {
       "id": 3,
-      "title": "Linear Clone",
-      "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
-      "tags": ["React"],
-      "live": "https://linearr.netlify.app/",
-      "github": "https://github.com/tsikatawill/linear-clone",
-      "image": "https://i.postimg.cc/NMzRnBbW/linear.png"
-    },
-    {
-      "id": 4,
-      "title": "WeBuild",
-      "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
-      "tags": ["React"],
-      "live": "https://webuiild.netlify.app/",
-      "github": "https://github.com/tsikatawill/weBuild",
-      "image": "https://i.postimg.cc/FHKdMVFV/webuild.png"
-    },
-    {
-      "id": 5,
-      "title": "Cryptobase",
-      "description": "Fully responsive landing page clone of Coinbase cryptowallet.",
-      "tags": ["React", "Clone"],
-      "live": "https://cryptobaase.netlify.app/",
-      "github": "https://github.com/tsikatawill/linear-clone",
-      "image": "https://i.postimg.cc/QxhWbrRP/cryptobase.png"
-    },
-    {
-      "id": 6,
-      "title": "Feedback App",
-      "description": "This app records user feedback and is part of a React course by Brad Traversy.",
-      "tags": ["React"],
-      "live": "https://feedbackk-app.netlify.app/",
-      "github": "https://github.com/tsikatawill/feedback-app",
-      "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
-    },
-    {
-      "id": 7,
       "title": "EZ Contacts",
       "description": "A simple online contact manager. For the purpose of testing, any username and password will be accepted.",
       "tags": ["React"],
@@ -205,7 +169,52 @@
       "image": "https://i.postimg.cc/13YnsVfh/ez-contacts.png"
     },
     {
-      "id": 8,
+      "id": 4,
+      "title": "Linear Clone",
+      "description": "A Linear clone. Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high performance teams.",
+      "tags": ["React"],
+      "live": "https://linearr.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone",
+      "image": "https://i.postimg.cc/NMzRnBbW/linear.png"
+    },
+    {
+      "id": 5,
+      "title": "WeBuild",
+      "description": "A simple landing page for a fictional company that has a beautiful UI and is fully reponsive.",
+      "tags": ["React"],
+      "live": "https://webuiild.netlify.app/",
+      "github": "https://github.com/tsikatawill/weBuild",
+      "image": "https://i.postimg.cc/FHKdMVFV/webuild.png"
+    },
+    {
+      "id": 6,
+      "title": "Cryptobase",
+      "description": "Fully responsive landing page clone of Coinbase cryptowallet.",
+      "tags": ["React", "Clone"],
+      "live": "https://cryptobaase.netlify.app/",
+      "github": "https://github.com/tsikatawill/linear-clone",
+      "image": "https://i.postimg.cc/QxhWbrRP/cryptobase.png"
+    },
+    {
+      "id": 7,
+      "title": "Feedback App",
+      "description": "This app records user feedback and is part of a React course by Brad Traversy.",
+      "tags": ["React"],
+      "live": "https://feedbackk-app.netlify.app/",
+      "github": "https://github.com/tsikatawill/feedback-app",
+      "image": "https://i.postimg.cc/wj70x4R5/feedback-app.png"
+    },
+    {
+      "id": 8,      
+      "title": "DUDEY-AI",
+      "description": "A simple landing page for an AI Chatbot solution. This was my first collaboration with a UI/UX designer @gbemisola on Twitter",
+      "tags": ["React"],
+      "live": "https://dudey-ai.netlify.app/",
+      "github": "https://github.com/tsikatawill/dudey-ai/tree/master",
+      "image": "https://i.postimg.cc/WpMkg4fg/dudey-ai.png"
+    },
+    {
+      "id": 9,
       "title": "Willman Todo",
       "description": "Create and manage a simple todo list.",
       "tags": ["Django"],
